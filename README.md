@@ -1,9 +1,9 @@
-# honeybeeVentilationModel
+## honeybeeVentilationModel
 This function contains a user friendly simulation of ventilation dynamics in honeybee nests. 
 It is intended to accompany a manuscript submitted to Journal of the Royal Society Interface. 
 The function allows for optional input so that the user can easily play with the parameters in 
 the model and visualize the resulting dynamics. 
-
+```matlab
 % file: simulateVentilationRobinBC.m
 %
 % written by:   Jacob Peters
@@ -86,3 +86,4 @@ the model and visualize the resulting dynamics.
 %
 %seed: data provided by matlab about the random number generator using rng
 %   function. Can be used to replicate simulation.
+```
